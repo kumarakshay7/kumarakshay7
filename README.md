@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm **Akshay Kumar**
 
-### Data Analyst · AI/ML Explorer · Automation Builder
+### **Data Analyst | AI/ML Explorer | Automation Builder**
 
 **I turn data into actionable insights, build AI-driven solutions, and automate real-world business processes.**
-
-<br>
 
 <a href="https://www.linkedin.com/in/akshaykumar17/"><img src="https://img.shields.io/badge/LinkedIn-Akshay%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/kumarakshay7"><img src="https://img.shields.io/badge/GitHub-kumarakshay7-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -20,93 +18,63 @@
 
 <table>
 <tr>
-<td width="28%" valign="top">
+<td width="28%" valign="top" align="center">
 
-### 👨‍💻 Akshay Kumar
+<img src="https://github.com/kumarakshay7.png" width="190" style="border-radius:50%;" alt="Akshay Kumar">
 
-**Data Analyst | GenAI Enthusiast**
-
-📍 India  
-📊 Analytics · ML · GenAI  
-⚙️ Automation & BI  
-🚀 Building practical AI solutions
-
-<br>
-
-<a href="https://kumarakshay7.github.io/akshay-portfolio/">
-<img src="https://img.shields.io/badge/🌐_View_Portfolio-2563EB?style=for-the-badge">
-</a>
+### **Akshay Kumar**
+<sub>@kumarakshay7</sub>
 
 <br><br>
 
-**Currently Exploring**
+**📊 Data Analyst | GenAI Enthusiast**  
+Turning Data into Impact 🚀
 
-- 🤖 Generative AI & RAG
-- 🧠 LLM Applications
-- 🔎 Data Engineering
-- ⚡ AI Automation
-- 📈 Advanced Analytics
+📍 India  
+✉️ [Email](mailto:akshaykumar7280@gmail.com)  
+🔗 [Portfolio](https://kumarakshay7.github.io/akshay-portfolio/)  
+💼 [LinkedIn](https://www.linkedin.com/in/akshaykumar17/)
 
 <br>
 
-> *“Turning data into decisions and models into useful products.”*
+> **“Turning data into decisions and models into useful products.”**
+
+### 🔎 Currently Exploring
+
+✅ Generative AI & RAG  
+✅ LLM Applications  
+✅ Data Engineering  
+✅ AI Automation  
+✅ Advanced Analytics
 
 </td>
 
 <td width="72%" valign="top">
 
-## 👋 About Me
+# 🚀 Hi, I'm Akshay
 
-I'm a **Data Analyst** working across analytics, Marketing Mix Modeling, machine learning, Generative AI, computer vision and business automation.
+### Data Analyst · Machine Learning · Generative AI
 
-I use **Python and SQL** to transform raw data into useful analysis and decision support, build ML solutions for practical problems, and develop RAG-based GenAI applications using **Azure OpenAI, Azure AI Search and LangChain**.
+I work across **analytics, machine learning, Generative AI, Marketing Mix Modeling, computer vision and business automation**.
 
-My recent work spans **marketing analytics, enterprise document Q&A, object detection, model optimization, Power Platform automation and BI reporting**.
+I use **Python and SQL** to transform raw data into useful analysis and decision support, build ML solutions for practical problems, and develop RAG-based GenAI applications with **Azure OpenAI, Azure AI Search and LangChain**.
+
+<br>
 
 ## 📊 Impact Snapshot
 
 <table>
 <tr>
-<td align="center"><b>500K+</b><br><sub>Records analyzed</sub></td>
-<td align="center"><b>+25%</b><br><sub>Budget efficiency</sub></td>
-<td align="center"><b>+35%</b><br><sub>Workflow efficiency</sub></td>
-<td align="center"><b>+12%</b><br><sub>ROI improvement</sub></td>
+<td align="center"><h2>2+</h2><sub>Years Experience</sub><br><sub>Analytics · ML · GenAI</sub></td>
+<td align="center"><h2>500K+</h2><sub>Records Analyzed</sub><br><sub>Across Multiple Projects</sub></td>
+<td align="center"><h2>25%</h2><sub>Improvement</sub><br><sub>Marketing Budget Accuracy</sub></td>
+<td align="center"><h2>35%</h2><sub>Workflow Efficiency</sub><br><sub>Through Automation</sub></td>
 </tr>
 </table>
 
-<sub>Selected figures from professional/project case studies; results vary by project and business context.</sub>
+## 🧠 About Me
 
-## 💪 Core Strengths
-
-- 📊 **Analytics:** SQL, Python, EDA, regression, hypothesis testing, feature engineering and predictive analytics
-- 📣 **Marketing Analytics:** Marketing Mix Modeling, channel contribution, ROI measurement, budget allocation and time-series analysis
-- 🤖 **Generative AI:** RAG, LLMs, embeddings, semantic/vector retrieval, prompt engineering and grounded responses
-- 👁️ **Machine Learning:** YOLOv8, YOLO11, OpenCV, PyTorch, TensorFlow, ONNX and model evaluation
-- ⚙️ **BI & Automation:** Power BI, Tableau, Power Apps, Power Automate, SharePoint and Copilot Studio
-- ☁️ **Cloud & Engineering:** Azure, Azure OpenAI, Azure AI Search, REST APIs, Java, Spring Boot and MySQL
-
-## 🧰 Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111">
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white">
-<img src="https://img.shields.io/badge/Copilot_Studio-742774?style=flat-square&logo=microsoft&logoColor=white">
-</p>
+Data Analyst experienced in **Python, SQL, statistical modeling, BI, machine learning and Generative AI**. I enjoy solving real business problems using data, building interactive dashboards and developing AI-powered solutions that make processes smarter and faster.
 
 </td>
 </tr>
@@ -114,69 +82,171 @@ My recent work spans **marketing analytics, enterprise document Q&A, object dete
 
 ---
 
-## 🚀 Featured Projects
+# 🧰 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">
+<img src="https://img.shields.io/badge/Copilot_Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO%2FOpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📈 Marketing Mix Modeling
+## 📈 Marketing Mix Modeling
 
-**Marketing Analytics · OLS · ROI**
+**MMM · OLS · ROI**
 
-Built an end-to-end MMM workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis.
+Built an end-to-end Marketing Mix Modeling workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis.
 
-**500K+ records · 5 channels · budget optimization**
+**500K+ records**  
+**5 marketing channels**  
+**ROI & budget optimization**
 
-**Professional / internal case study**
+🔒 Professional case study
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 Enterprise RAG AI Assistant
+<td width="33%" valign="top">
+
+## 🤖 Enterprise RAG AI Assistant
 
 **Azure OpenAI · AI Search · LangChain**
 
-Built an end-to-end RAG system covering document ingestion, chunking, embeddings, semantic/vector retrieval and grounded responses.
+Built an end-to-end RAG pipeline covering document ingestion, chunking, embeddings, semantic/vector retrieval and grounded responses.
 
-**Public repository**
+**Public Repository**
 
-<a href="https://github.com/kumarakshay7/Azure-RAG-Assignments">↗ View Project</a>
+👉 [View Project](https://github.com/kumarakshay7/Azure-RAG-Assignments)
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚙️ Power Platform Automation
+
+**Power Apps · Power Automate · BI**
+
+Designed Power Apps, Power Automate, SharePoint and Copilot Studio solutions to streamline operational workflows and support faster decisions.
+
+**+35% workflow efficiency**
+
+🔒 Professional case study
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Vehicle Detection & Tracking
+## 👁️ Vehicle Detection & Tracking
 
 **YOLOv8 · OpenCV · Computer Vision**
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference.
 
-**Professional / internal case study**
+🔒 Professional case study
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ YOLO11 Model Optimization
+
+**ONNX · INT8 · Model Evaluation**
+
+Completed an object-detection workflow covering YOLO11 training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
+
+👉 [View Project](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+<table>
+<tr>
+<td width="27%" valign="top">
+
+### Protics Research
+**Data Analyst**
+
+📅 Sep 2025 – Present
+
+</td>
+<td valign="top">
+
+- Analyze market research datasets using **SQL and Python**
+- Perform data cleaning, quantitative analysis and reporting
+- Apply **correlation, regression and hypothesis testing**
+- Translate analysis into useful business insights
+
+</td>
+</tr>
+
+<tr>
+<td width="27%" valign="top">
+
+### Course 5 Intelligence Ltd
+**Analyst · TMT**
+
+📅 Aug 2024 – Sep 2025
+
+</td>
+<td valign="top">
+
+- Built **Marketing Mix Modeling** and predictive analytics workflows
+- Worked with **500K+ records** and supported MMM analysis
+- Developed **YOLOv8/OpenCV** computer vision solutions
+- Built **Power Apps and Power Automate** workflows
+- Supported BI dashboards and time-series forecasting
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎓 Education
+
+**MBA — Business Analytics**  
+Lovely Professional University  
+**2022 – 2024**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ YOLO11 Model Optimization
+## 🏆 Certifications
 
-**ONNX · INT8 · Model Evaluation**
-
-Completed an object-detection workflow covering YOLO11 training, evaluation, ONNX export, FP32 validation and INT8 quantization.
-
-<a href="https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment">↗ View Project</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ⚙️ Power Platform & BI Automation
-
-**Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI**
-
-Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
+✅ Microsoft Power Platform Fundamentals — PL-900  
+✅ Complete Generative AI Course — Udemy  
+✅ Analytical Excel Certification Program — Grant Thornton
 
 </td>
 </tr>
@@ -184,50 +254,32 @@ Designed workflow automation and BI solutions to streamline operational processe
 
 ---
 
-## 💼 Experience
+# 🔭 Currently Exploring
 
 <table>
 <tr>
-<td width="24%" valign="top"><b>Protics Research</b><br><sub>Sep 2025 – Present</sub></td>
-<td valign="top"><b>Data Analyst</b><br>
-SQL · Python · Statistics · Market Research<br>
-Analyzed datasets, performed quantitative analysis, data cleaning, regression and hypothesis testing, and translated findings into business insights.
-</td>
-</tr>
-<tr>
-<td width="24%" valign="top"><b>Course 5 Intelligence Ltd</b><br><sub>Aug 2024 – Sep 2025</sub></td>
-<td valign="top"><b>Analyst · Technology, Media & Telecom</b><br>
-Marketing Mix Modeling · OLS Regression · Computer Vision · Power Platform · BI<br>
-Worked with 500K+ records, supported MMM analysis, developed YOLOv8/OpenCV solutions and built Power Apps/Power Automate workflows.
-</td>
+<td align="center">🤖<br><b>Generative AI</b><br><sub>RAG · LLMs · Embeddings</sub></td>
+<td align="center">🧠<br><b>Machine Learning</b><br><sub>Regression · Forecasting · CV</sub></td>
+<td align="center">📊<br><b>Analytics</b><br><sub>SQL · Python · Statistics · BI</sub></td>
+<td align="center">⚡<br><b>Automation</b><br><sub>Power Platform · Copilot</sub></td>
 </tr>
 </table>
 
 ---
 
-## 🎓 Education & Certifications
+# 📈 GitHub Activity
 
-| 🎓 Education | 🏆 Certifications |
-|---|---|
-| **MBA — Business Analytics**<br>Lovely Professional University · 2022–2024 | **Microsoft Power Platform Fundamentals — PL-900** |
-| | **Complete Generative AI Course — Udemy** |
-| | **Analytical Excel Certification Program — Grant Thornton** |
+<div align="center">
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumarakshay7&theme=tokyonight&hide_border=true)
 
-## 🔭 Currently Exploring
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarakshay7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-```text
-GENERATIVE AI     → RAG · LLMs · Embeddings · Azure OpenAI
-MACHINE LEARNING  → Regression · Forecasting · Computer Vision
-ANALYTICS         → SQL · Python · Statistics · Power BI
-AUTOMATION        → Power Apps · Power Automate · Copilot Studio
-ENGINEERING       → REST APIs · Java · Spring Boot · MySQL
-```
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <div align="center">
 
@@ -238,6 +290,6 @@ ENGINEERING       → REST APIs · Java · Spring Boot · MySQL
 
 <br><br>
 
-### 🚀 Turning data into decisions. Building models into useful products.
+### 🚀 **Turning data into decisions. Building models into useful products.**
 
 </div>
