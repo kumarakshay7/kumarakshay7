@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 360">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06101b"/><stop offset=".55" stop-color="#182a42"/><stop offset="1" stop-color="#05080d"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#233c5c" stop-opacity=".9"/><stop offset="1" stop-color="#07101a" stop-opacity=".2"/></linearGradient>
+<linearGradient id="mount" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#07111d"/><stop offset=".55" stop-color="#102238"/><stop offset="1" stop-color="#05090f"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1400" height="360" fill="url(#bg)"/>
+<rect width="1400" height="360" fill="url(#sky)"/>
+<circle cx="1110" cy="112" r="48" fill="#ffcf6a" opacity=".35" filter="url(#glow)"/>
+<circle cx="1110" cy="112" r="22" fill="#ffd875" opacity=".95"/>
+<path d="M0 285 L180 190 285 255 420 145 560 270 700 185 815 270 970 135 1110 245 1260 165 1400 255 V360 H0Z" fill="url(#mount)"/>
+<path d="M0 315 L210 225 345 300 515 205 675 315 820 220 980 315 1140 205 1290 285 1400 230 V360 H0Z" fill="#050b12" opacity=".92"/>
+<path d="M770 250 q35-65 72 0 q-35-32-72 0" fill="#0a121c"/>
+<text x="75" y="100" fill="#6ecbff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">AKSHAY KUMAR</text>
+<text x="75" y="155" fill="#ffffff" font-family="Arial,sans-serif" font-size="48" font-weight="700">Build · Analyze · Automate</text>
+<text x="78" y="195" fill="#9db7d4" font-family="Arial,sans-serif" font-size="19">Data Analytics · Machine Learning · Generative AI</text>
+<text x="1135" y="75" fill="#d7e7ff" font-family="cursive" font-size="25" transform="rotate(-8 1135 75)">Better Data</text>
+<text x="1155" y="105" fill="#d7e7ff" font-family="cursive" font-size="25" transform="rotate(-8 1155 105)">Brighter</text>
+<text x="1185" y="135" fill="#d7e7ff" font-family="cursive" font-size="25" transform="rotate(-8 1185 135)">Decisions</text>
+</svg>
