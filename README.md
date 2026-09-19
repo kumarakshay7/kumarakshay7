@@ -12,7 +12,6 @@ I turn data into actionable insights, build AI-driven solutions, and automate re
 [![GitHub](https://img.shields.io/badge/GitHub-kumarakshay7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-UnfilteredAkshayMahto-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UnfilteredAkshayMahto)
 
 </div>
 
@@ -222,12 +221,6 @@ Built interactive analytics dashboards for operational reporting, trend analysis
 - Worked with **500K+ records** and supported MMM analysis.
 - Developed ML/AI solutions, dashboards and Power Platform automation.
 - Built computer vision workflows using YOLOv8 and OpenCV.
-
-### 🔵 Digidzire
-**Data Scientist · Oct 2025 – Present**
-
-- Developed RESTful backend services using **Java and Spring Boot**.
-- Worked on data pipelines and system integrations.
 
 </td>
 
