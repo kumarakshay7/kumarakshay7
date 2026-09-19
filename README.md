@@ -96,7 +96,7 @@ Implemented an end-to-end Retrieval-Augmented Generation system covering documen
 
 **Stack:** Azure OpenAI · Azure AI Search · LangChain · embeddings · Streamlit
 
-**Repository:** [Azure-RAG-Assignments](https://github.com/kumarakshay7/Azure-RAG-Assignments)
+**Repository:** [Enterprise RAG AI Assistant](https://github.com/kumarakshay7/Azure-RAG-Assignments)
 
 ---
 
@@ -116,7 +116,7 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 
 Completed an object-detection engineering workflow covering model training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
 
-**Repository:** [artikate-cv-ml-engineer-assignment](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
+**Repository:** [Computer Vision Model Optimization using YOLO11](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
 
 ---
 
