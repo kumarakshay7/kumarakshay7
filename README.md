@@ -106,7 +106,7 @@ Implemented an end-to-end Retrieval-Augmented Generation system covering documen
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference using YOLOv8 and OpenCV.
 
-**Repository:** Professional/internal case study
+**Repository:** [Vehicle Detection & Tracking](https://github.com/kumarakshay7/computer-vision-yolo)
 
 ---
 
