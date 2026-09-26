@@ -1,54 +1,6 @@
-<table>
-<tr>
-<td width="23%" valign="top">
-
 <div align="center">
-<img src="./assets/profile-photo.svg" width="190" alt="Akshay Kumar"/>
-
-# Akshay Kumar
-**kumarakshay7**
-
-</div>
-
-💠 **Data Analyst | GenAI Enthusiast**  
-Turning Data into Impact 🚀
-
-📍 Bengaluru, Karnataka, India  
-✉️ **kumarakshay7280@gmail.com**  
-🔗 [kumarakshay7.github.io/akshay-portfolio](https://kumarakshay7.github.io/akshay-portfolio/)  
-💼 [linkedin.com/in/akshaykumar17](https://www.linkedin.com/in/akshaykumar17/)  
-▶️ [@UnfilteredAkshayMahto](https://www.youtube.com/@UnfilteredAkshayMahto)
-
----
-
-### 💬
-> *“Discipline today*  
-> *Builds the freedom tomorrow.”*
-
----
-
-## Highlights
-
-⭐ **PRO**
-
-🟢 Open to new opportunities  
-🌐 Building in public  
-🎯 Learning every day  
-🤖 Interested in GenAI, ML & Automation
-
----
-
-## Achievements
-
-🏅 🛡️ 🏆
-
-</td>
-
-<td width="77%" valign="top">
 
 <img src="./assets/hero.svg" width="100%" alt="Akshay Kumar - Build Analyze Automate Grow"/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar17/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7) &nbsp;
@@ -60,19 +12,34 @@ Turning Data into Impact 🚀
 
 <table>
 <tr>
-<td align="center"><h2>2+</h2><b>Years Experience</b><br><sub>Analytics | ML | GenAI</sub></td>
-<td align="center"><h2>500K+</h2><b>Records Analyzed</b><br><sub>Across Multiple Projects</sub></td>
-<td align="center"><h2>25%</h2><b>Improvement</b><br><sub>Marketing Budget Accuracy</sub></td>
-<td align="center"><h2>35%</h2><b>Workflow Efficiency</b><br><sub>Through Automation</sub></td>
+<td align="center" width="25%"><h2>2+</h2><b>Years Experience</b><br><sub>Analytics | ML | GenAI</sub></td>
+<td align="center" width="25%"><h2>500K+</h2><b>Records Analyzed</b><br><sub>Across Multiple Projects</sub></td>
+<td align="center" width="25%"><h2>25%</h2><b>Improvement</b><br><sub>Marketing Budget Accuracy</sub></td>
+<td align="center" width="25%"><h2>35%</h2><b>Workflow Efficiency</b><br><sub>Through Automation</sub></td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="72%" valign="top">
 
 ## 👤 About Me
 
 I'm a Data Analyst with **2+ years of experience** working on data analytics, machine learning, Generative AI, Marketing Mix Modeling, and enterprise automation. I enjoy solving real business problems using data, building interactive dashboards, and developing AI-powered solutions that make processes smarter and faster.
 
-> 🎯 **Currently Exploring**  
-> ✅ Generative AI & RAG  ·  ✅ LLM Applications  ·  ✅ Data Engineering  ·  ✅ AI Automation
+</td>
+<td width="28%" valign="top">
+
+### 🎯 Currently Exploring
+
+✅ Generative AI & RAG  
+✅ LLM Applications  
+✅ Data Engineering  
+✅ AI Automation
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -135,11 +102,11 @@ Developed Power Apps, Power Automate flows and Copilot Studio solutions to strea
 </tr>
 </table>
 
-## 💼 Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Education
-
 <table>
 <tr>
 <td width="68%" valign="top">
+
+## 💼 Experience
 
 ### 🔵 Protics Research
 **Data Analyst · Sep 2025 – Present**  
@@ -165,13 +132,13 @@ Developed Power Apps, Power Automate flows and Copilot Studio solutions to strea
 </td>
 <td width="32%" valign="top">
 
-### 🎓 Education
+## 🎓 Education
 
 **MBA in Business Analytics**  
 Lovely Professional University  
 2022 – 2024
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 ✅ Microsoft Power Platform  
 ✅ Azure AI Fundamentals  
@@ -192,17 +159,24 @@ Lovely Professional University
 
 </div>
 
+<table>
+<tr>
+<td width="70%">
+
 > *“Small steps in the right direction create big results.”*  
 > **— Akshay Kumar**
+
+</td>
+<td width="30%" align="center">
+
+**[View All Repositories →](https://github.com/kumarakshay7?tab=repositories)**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ### 🚀 Turning data into decisions. Building AI into useful products.
 
-[View All Repositories →](https://github.com/kumarakshay7?tab=repositories)
-
 </div>
-
-</td>
-</tr>
-</table>
