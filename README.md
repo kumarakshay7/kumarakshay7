@@ -9,12 +9,65 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%"><h2>2+</h2><b>Years Experience</b><br><sub>Analytics | ML | GenAI</sub></td>
-<td align="center" width="25%"><h2>500K+</h2><b>Records Analyzed</b><br><sub>Across Multiple Projects</sub></td>
-<td align="center" width="25%"><h2>25%</h2><b>Improvement</b><br><sub>Marketing Budget Accuracy</sub></td>
-<td align="center" width="25%"><h2>35%</h2><b>Workflow Efficiency</b><br><sub>Through Automation</sub></td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1>2+</h1>
+
+<b>Years Experience</b>
+
+<br><br>
+
+<sub>Analytics | ML | GenAI</sub>
+
+<br><br>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1>500K+</h1>
+
+<b>Records Analyzed</b>
+
+<br><br>
+
+<sub>Across Multiple Projects</sub>
+
+<br><br>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1>25%</h1>
+
+<b>Improvement</b>
+
+<br><br>
+
+<sub>Marketing Budget Accuracy</sub>
+
+<br><br>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1>35%</h1>
+
+<b>Workflow Efficiency</b>
+
+<br><br>
+
+<sub>Through Automation</sub>
+
+<br><br>
+
+</td>
+
 </tr>
 </table>
 
