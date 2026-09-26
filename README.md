@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7) &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D92D45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com) &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UnfilteredAkshayMahto)
 
 </div>
 
@@ -49,9 +48,7 @@ I'm a Data Analyst with **2+ years of experience** working on data analytics, ma
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -121,13 +118,6 @@ Developed Power Apps, Power Automate flows and Copilot Studio solutions to strea
 
 - Built OLS regression models and MMM solutions for CPG clients, improving ROI measurement by 12%.
 - Developed ML/AI solutions, dashboards, and Power Platform automation.
-
-### 🔵 Digidzire
-**Data Scientist · Oct 2025 – Present**  
-📍 Kanpur, Uttar Pradesh
-
-- Developed RESTful backend services using Java and Spring Boot.
-- Worked on data pipelines and system integrations.
 
 </td>
 <td width="32%" valign="top">
