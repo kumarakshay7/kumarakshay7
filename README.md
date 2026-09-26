@@ -158,10 +158,6 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 
 <strong>Stack:</strong> `YOLOv8` · `OpenCV` · `Python`
 
-</td>
-
-</tr>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -183,8 +179,6 @@ Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI
 Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
 
 <strong>Outcome:</strong> Workflow efficiency improvement and automated operational reporting.
-
-</td>
 
 </tr>
 </table>
