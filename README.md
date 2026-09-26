@@ -48,7 +48,7 @@ I'm a Data Analyst with **2+ years of experience** working on data analytics, ma
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
