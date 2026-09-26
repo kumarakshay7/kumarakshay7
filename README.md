@@ -133,7 +133,7 @@ Built an end-to-end MMM workflow using Python, OLS regression, feature engineeri
 **Highlights:** `500K+ records` · `5 channels` · `ROI measurement` · `Budget optimization`
 </td>
 <td width="33%" valign="top">
-🤖 02 · Enterprise RAG AI Assistant
+🤖<strong>02 · Enterprise RAG AI Assistant</strong><br>
 Azure OpenAI · Azure AI Search · LangChain · RAG
 
 Implemented document ingestion, chunking, embeddings, semantic/vector retrieval and grounded response generation.
@@ -143,7 +143,7 @@ Implemented document ingestion, chunking, embeddings, semantic/vector retrieval 
 [🔗 Repository](https://github.com/kumarakshay7/Azure-RAG-Assignments)
 </td>
 <td width="33%" valign="top">
-👁️ 03 · Vehicle Detection
+👁️<strong>03 · Vehicle Detection</strong><br>
 Computer Vision · YOLOv8 · OpenCV
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference.
@@ -156,7 +156,7 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-⚙️ 04 · YOLO11 Model Optimization
+⚙️<strong>04 · YOLO11 Model Optimization</strong><br>
 Object Detection · ONNX · INT8 Quantization
 
 Completed a model engineering workflow covering training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
@@ -164,7 +164,7 @@ Completed a model engineering workflow covering training, evaluation, ONNX expor
 [🔗 Repository](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
 </td>
 <td width="50%" valign="top">
-🔄 05 · Power Platform & BI Automation
+🔄 <strong> 05 · Power Platform & BI Automation</strong><br>
 Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI
 
 Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
