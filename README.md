@@ -107,7 +107,7 @@ Developed Power Apps, Power Automate flows and Copilot Studio solutions to strea
 
 ### 🔵 Protics Research
 **Data Analyst · Sep 2025 – Present**  
-📍 Bengaluru, Karnataka
+📍 New Delhi
 
 - Analyzed booking journey data, dashboards for revenue, cancellations, and partner performance.
 - Built data-driven insights to improve business operations.
