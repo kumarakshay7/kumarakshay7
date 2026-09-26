@@ -16,7 +16,7 @@ Turning Data into Impact 🚀
 📍 Bengaluru, Karnataka, India  
 ✉️ **kumarakshay7280@gmail.com**  
 🔗 [kumarakshay7.github.io/akshay-portfolio](https://kumarakshay7.github.io/akshay-portfolio/)  
-💼 [linkedin.com/in/akshay-kumar](https://www.linkedin.com/in/akshay-kumar)  
+💼 [linkedin.com/in/akshaykumar17](https://www.linkedin.com/in/akshaykumar17/)  
 ▶️ [@UnfilteredAkshayMahto](https://www.youtube.com/@UnfilteredAkshayMahto)
 
 ---
@@ -50,10 +50,10 @@ Turning Data into Impact 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar17/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7) &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/) &nbsp;
-[![Email](https://img.shields.io/badge/Email-D92D45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarakshay7280@gmail.com) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D92D45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com) &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UnfilteredAkshayMahto)
 
 </div>
@@ -117,7 +117,7 @@ Built a RAG-based AI assistant using Azure OpenAI, LangChain, and Azure AI Searc
 `Python` `GenAI` `RAG`
 
 ⭐ 6 &nbsp; 🔀 2  
-**[View Project →](https://github.com/kumarakshay7/Azure-RAG-Assignments)**
+**[View Project →](https://github.com/kumarakshay7/Enterprise-RAG-AI-Assistant)**
 
 </td>
 <td width="33%" valign="top">
