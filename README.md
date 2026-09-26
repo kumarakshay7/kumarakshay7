@@ -29,7 +29,7 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <table width="100%">
 <tr>
 
-<td align="center" width="25%" height="160" style="padding: 20px 45px;">
+<td align="center" width="25%" height="160" style="padding: 20px 60px;">
 <h2>🔵 500K+</h2>
 <b>Records Analyzed</b><br>
 <sub>Analytics Workflows</sub>
