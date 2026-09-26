@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/profile-dashboard.svg" width="100%" usemap="#akshay-links" alt="Akshay Kumar profile dashboard" />
+<img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/profile-dashboard.svg" width="100%" alt="Akshay Kumar profile dashboard" />
 
-<map name="akshay-links">
-  <area shape="rect" coords="40,207,170,241" href="https://www.linkedin.com/in/akshay-kumar17/" target="_blank" alt="LinkedIn" />
-  <area shape="rect" coords="180,207,310,241" href="https://github.com/kumarakshay7" target="_blank" alt="GitHub" />
-  <area shape="rect" coords="320,207,450,241" href="https://kumarakshay7.github.io/akshay-portfolio/" target="_blank" alt="Portfolio" />
-  <area shape="rect" coords="460,207,590,241" href="mailto:akshaykumar7280@gmail.com" alt="Email" />
-  <area shape="rect" coords="600,207,730,241" href="https://www.youtube.com/@UnfilteredAkshayMahto" target="_blank" alt="YouTube" />
-</map>
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/akshay-kumar17/" target="_blank"><img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/linkedin-button.svg" alt="LinkedIn" width="130" height="34"></a></td>
+<td><a href="https://github.com/kumarakshay7" target="_blank"><img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/github-button.svg" alt="GitHub" width="130" height="34"></a></td>
+<td><a href="https://kumarakshay7.github.io/akshay-portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/portfolio-button.svg" alt="Portfolio" width="130" height="34"></a></td>
+<td><a href="mailto:akshaykumar7280@gmail.com"><img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/email-button.svg" alt="Email" width="130" height="34"></a></td>
+<td><a href="https://www.youtube.com/@UnfilteredAkshayMahto" target="_blank"><img src="https://raw.githubusercontent.com/kumarakshay7/kumarakshay7/main/assets/youtube-button.svg" alt="YouTube" width="130" height="34"></a></td>
+</tr>
+</table>
 
 </div>
