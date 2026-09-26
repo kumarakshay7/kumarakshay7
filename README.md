@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 <span style="color:#38BDF8">Hi, I'm</span> <span style="color:#A78BFA">Akshay Kumar</span>
+# <span style="color:#38BDF8"></span> <span style="color:#A78BFA">Akshay Kumar</span>
 
 ### <span style="color:#38BDF8">📊 Data Analyst</span> · <span style="color:#A78BFA">🤖 Machine Learning</span> · <span style="color:#22C55E">✨ Generative AI</span>
 
