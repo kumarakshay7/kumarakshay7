@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="285" viewBox="0 0 1100 285"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06101a"/><stop offset="0.55" stop-color="#10243b"/><stop offset="1" stop-color="#263449"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe6a0"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><rect width="1100" height="285" rx="14" fill="url(#bg)"/><circle cx="875" cy="130" r="52" fill="url(#sun)" opacity=".95"/><path d="M0 205L150 120 235 182 335 105 455 200 560 125 680 210 785 142 900 220 1010 130 1100 190V285H0Z" fill="#09131e"/><path d="M0 228L170 165 285 218 410 150 530 232 680 172 820 238 965 175 1100 220V285H0Z" fill="#050b12" opacity=".9"/><g fill="#06101a"><circle cx="780" cy="122" r="14"/><path d="M770 140h22l18 70h-58z"/><path d="M770 160l-40 45 8 8 44-34zM790 160l40 38-8 9-42-30z"/><path d="M780 204l-26 70h17l24-67zM792 204l18 70h17l-24-72z"/></g><g font-family="Arial,Helvetica,sans-serif"><text x="34" y="45" fill="#d8f1ff" font-size="23">👋 Hi, I'm</text><text x="34" y="96" fill="#ffffff" font-size="53" font-weight="700">Akshay <tspan fill="#3188ff">Kumar</tspan></text><text x="34" y="128" fill="#61c9ff" font-size="20" font-weight="600">Data Analyst | AI/ML Explorer | Automation Builder</text><text x="34" y="160" fill="#e7eef7" font-size="14">I turn data into actionable insights, build AI-driven solutions, and automate</text><text x="34" y="181" fill="#e7eef7" font-size="14">real-world business processes. Passionate about Analytics, Generative AI,</text><text x="34" y="202" fill="#e7eef7" font-size="14">and creating impact through technology.</text></g><g fill="#d8e7f7" font-family="cursive" font-size="27" font-style="italic"><text x="585" y="62">Build</text><text x="570" y="98">Analyze</text><text x="560" y="134">Automate</text><text x="580" y="170">Grow</text></g><g fill="#ffffff" font-family="cursive" font-size="19" font-style="italic"><text x="1010" y="152">Better</text><text x="995" y="176">Data</text><text x="987" y="200">Brighter</text><text x="1010" y="224">Decisions</text></g><path d="M995 238 Q1045 225 1090 231" fill="none" stroke="#ffd43b" stroke-width="3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06101a"/>
+    <stop offset="0.48" stop-color="#10243a"/>
+    <stop offset="0.78" stop-color="#334052"/>
+    <stop offset="1" stop-color="#8a664f"/>
+  </linearGradient>
+  <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff5c4"/>
+    <stop offset="1" stop-color="#f4a83a"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#06101a" stop-opacity=".98"/>
+    <stop offset="0.5" stop-color="#06101a" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#06101a" stop-opacity=".04"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="330" rx="16" fill="url(#sky)"/>
+<circle cx="990" cy="158" r="63" fill="url(#sun)" opacity=".96"/>
+<path d="M0 238L130 158L230 213L350 128L475 226L610 148L735 235L870 137L1005 222L1110 151L1200 202V330H0Z" fill="#09131e"/>
+<path d="M0 268L155 202L286 256L430 181L570 276L730 205L865 280L1015 194L1200 251V330H0Z" fill="#040a10" opacity=".94"/>
+<path d="M0 0H1200V330H0Z" fill="url(#fade)"/>
+<!-- explorer silhouette -->
+<g fill="#071018">
+ <circle cx="845" cy="103" r="17"/>
+ <path d="M825 123h38l27 105h-92z"/>
+ <path d="M830 145l-65 72 10 10 70-53zM860 146l66 59-10 11-69-48z"/>
+ <path d="M830 220l-30 106h22l37-102zM857 220l30 106h22l-39-109z"/>
+ <path d="M809 128h48l-8 88h-39z" fill="#101b25"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="42" y="55" fill="#d9efff" font-size="25">👋 Hi, I'm</text>
+ <text x="42" y="116" fill="#ffffff" font-size="64" font-weight="700">Akshay <tspan fill="#3188ff">Kumar</tspan></text>
+ <text x="42" y="151" fill="#61c9ff" font-size="22" font-weight="600">Data Analyst | AI/ML Explorer | Automation Builder</text>
+ <text x="42" y="184" fill="#edf4fb" font-size="15">I turn data into actionable insights, build AI-driven solutions, and automate</text>
+ <text x="42" y="207" fill="#edf4fb" font-size="15">real-world business processes. Passionate about Analytics, Generative AI,</text>
+ <text x="42" y="230" fill="#edf4fb" font-size="15">and creating impact through technology.</text>
+</g>
+<g fill="#d8e7f7" font-family="cursive" font-size="31" font-style="italic">
+ <text x="690" y="61">Build</text><text x="680" y="102">Analyze</text><text x="672" y="143">Automate</text><text x="694" y="184">Grow</text>
+</g>
+<g fill="#fff" font-family="cursive" font-size="21" font-style="italic">
+ <text x="1050" y="180">Better</text><text x="1038" y="207">Data</text><text x="1028" y="234">Brighter</text><text x="1051" y="261">Decisions</text>
+</g>
+<path d="M1025 276 Q1090 258 1175 270" fill="none" stroke="#ffd43b" stroke-width="4"/>
+<rect x="1" y="1" width="1198" height="328" rx="16" fill="none" stroke="#233b52" stroke-width="2"/>
+</svg>
