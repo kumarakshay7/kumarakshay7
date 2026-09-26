@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar17/)
 [![GitHub](https://img.shields.io/badge/GitHub-kumarakshay7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com)
 
 </div>
 
