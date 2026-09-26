@@ -18,7 +18,7 @@
 </tr>
 </table>
 <tr>
-<td width="72%" valign="top">
+<td width="100%" valign="top">
 
 ## 👤 About Me
 
