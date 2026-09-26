@@ -29,23 +29,25 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <table width="100%">
 <tr>
 
-<td align="center" width="25%" height="140" <h2>🔵 500K+</h2>
+<td align="center" width="25%" height="160" style="padding: 20px 45px;">
+<h2>🔵 500K+</h2>
 <b>Records Analyzed</b><br>
 <sub>Analytics Workflows</sub>
 </td>
-<td align="center" width="25%" height="140" 
+
+<td align="center" width="25%" height="160" style="padding: 20px 45px;">
 <h2>🟣 +25%</h2>
 <b>Budget Efficiency</b><br>
 <sub>Marketing Optimization</sub>
 </td>
 
-<td align="center" width="25%" height="140" 
+<td align="center" width="25%" height="160" style="padding: 20px 45px;">
 <h2>🟢 +35%</h2>
 <b>Workflow Efficiency</b><br>
 <sub>Through Automation</sub>
 </td>
 
-<td align="center" width="25%" height="140" 
+<td align="center" width="25%" height="160" style="padding: 20px 45px;">
 <h2>🟡 +12%</h2>
 <b>ROI Improvement</b><br>
 <sub>Marketing Analytics</sub>
