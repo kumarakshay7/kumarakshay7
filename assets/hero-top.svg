@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="205" viewBox="0 0 960 205">
+<rect width="960" height="205" rx="14" fill="#0b1827" stroke="#23445f" stroke-width="2"/>
+<text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="22">👋 Hi, I'm</text>
+<text x="40" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700">Akshay <tspan fill="#2f86ff">Kumar</tspan></text>
+<text x="40" y="125" fill="#55c6ff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Data Analyst | AI/ML Explorer | Automation Builder</text>
+<text x="40" y="151" fill="#d8e4ef" font-family="Arial, sans-serif" font-size="13">I turn data into actionable insights, build AI-driven solutions, and automate</text>
+<text x="40" y="170" fill="#d8e4ef" font-family="Arial, sans-serif" font-size="13">real-world business processes. Passionate about Analytics, Generative AI,</text>
+<text x="40" y="189" fill="#d8e4ef" font-family="Arial, sans-serif" font-size="13">and creating impact through technology.</text>
+<rect x="650" y="20" width="260" height="160" rx="12" fill="#101d2c"/>
+<text x="678" y="60" fill="#b9c8d9" font-family="Arial, sans-serif" font-size="18">Build</text>
+<text x="700" y="94" fill="#b9c8d9" font-family="Arial, sans-serif" font-size="18">Analyze</text>
+<text x="682" y="128" fill="#b9c8d9" font-family="Arial, sans-serif" font-size="18">Automate</text>
+<text x="715" y="162" fill="#b9c8d9" font-family="Arial, sans-serif" font-size="18">Grow</text>
+</svg>
