@@ -30,26 +30,10 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
-<h2>🔵 500K+</h2>
-<b>Records Analyzed</b><br>
-<sub>Analytics Workflows</sub>
-</td>
-<td align="center" width="25%">
-<h2>🟣 +25%</h2>
-<b>Budget Efficiency</b><br>
-<sub>Marketing Optimization</sub>
-</td>
-<td align="center" width="25%">
-<h2>🟢 +35%</h2>
-<b>Workflow Efficiency</b><br>
-<sub>Through Automation</sub>
-</td>
-<td align="center" width="25%">
-<h2>🟡 +12%</h2>
-<b>ROI Improvement</b><br>
-<sub>Marketing Analytics</sub>
-</td>
+<td align="center" width="25%"><h2>🔵 500K+</h2><b>Records Analyzed</b><br><sub>Analytics Workflows</sub></td>
+<td align="center" width="25%"><h2>🟣 +25%</h2><b>Budget Efficiency</b><br><sub>Marketing Optimization</sub></td>
+<td align="center" width="25%"><h2>🟢 +35%</h2><b>Workflow Efficiency</b><br><sub>Through Automation</sub></td>
+<td align="center" width="25%"><h2>🟡 +12%</h2><b>ROI Improvement</b><br><sub>Marketing Analytics</sub></td>
 </tr>
 </table>
 
@@ -74,43 +58,67 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 
 <div align="center">
 
-### 🐍 Data & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🤖 AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-
-### ✨ Generative AI & Cloud
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### 📊 BI & Automation
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### ☕ Engineering
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table width="100%" cellspacing="10" cellpadding="10">
+<tr>
+<td align="center" width="50%">
+<h3>🐍 Data & Analytics</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+</td>
+<td align="center" width="50%">
+<h3>🤖 AI & Machine Learning</h3>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=white">
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>✨ Generative AI & Cloud</h3>
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Azure%20AI%20Search-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
+</p>
+</td>
+<td align="center">
+<h3>📊 BI & Automation</h3>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">
+<img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h3>☕ Engineering & Databases</h3>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -121,20 +129,15 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-
 ### 📊 01 · Marketing Mix Modeling
-
 **Focus:** Marketing Analytics · OLS · ROI · Budget Allocation
 
 Built an end-to-end MMM workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis across large marketing datasets.
 
 **Highlights:** `500K+ records` · `5 channels` · `ROI measurement` · `Budget optimization`
-
 </td>
 <td width="33%" valign="top">
-
 ### 🤖 02 · Enterprise RAG AI Assistant
-
 **Focus:** Azure OpenAI · Azure AI Search · LangChain · RAG
 
 Implemented document ingestion, chunking, embeddings, semantic/vector retrieval and grounded response generation.
@@ -142,12 +145,9 @@ Implemented document ingestion, chunking, embeddings, semantic/vector retrieval 
 **Stack:** `Azure OpenAI` · `AI Search` · `LangChain` · `Streamlit`
 
 [🔗 Repository](https://github.com/kumarakshay7/Azure-RAG-Assignments)
-
 </td>
 <td width="33%" valign="top">
-
 ### 👁️ 03 · Vehicle Detection
-
 **Focus:** Computer Vision · YOLOv8 · OpenCV
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference.
@@ -155,7 +155,6 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 **Stack:** `YOLOv8` · `OpenCV` · `Python`
 
 **Type:** Professional/internal case study
-
 </td>
 </tr>
 </table>
@@ -163,26 +162,20 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 ### ⚙️ 04 · YOLO11 Model Optimization
-
 **Focus:** Object Detection · ONNX · INT8 Quantization
 
 Completed a model engineering workflow covering training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
 
 [🔗 Repository](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
-
 </td>
 <td width="50%" valign="top">
-
 ### 🔄 05 · Power Platform & BI Automation
-
 **Focus:** Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI
 
 Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
 
 **Outcome:** Workflow efficiency improvement and automated operational reporting.
-
 </td>
 </tr>
 </table>
