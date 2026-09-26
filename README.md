@@ -125,7 +125,7 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-# 📊 01 · Marketing Mix Modeling
+📊 01 · Marketing Mix Modeling
 **Focus:** Marketing Analytics · OLS · ROI · Budget Allocation
 
 Built an end-to-end MMM workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis across large marketing datasets.
@@ -133,7 +133,7 @@ Built an end-to-end MMM workflow using Python, OLS regression, feature engineeri
 **Highlights:** `500K+ records` · `5 channels` · `ROI measurement` · `Budget optimization`
 </td>
 <td width="33%" valign="top">
-# 🤖 02 · Enterprise RAG AI Assistant
+🤖 02 · Enterprise RAG AI Assistant
 **Focus:** Azure OpenAI · Azure AI Search · LangChain · RAG
 
 Implemented document ingestion, chunking, embeddings, semantic/vector retrieval and grounded response generation.
@@ -143,14 +143,12 @@ Implemented document ingestion, chunking, embeddings, semantic/vector retrieval 
 [🔗 Repository](https://github.com/kumarakshay7/Azure-RAG-Assignments)
 </td>
 <td width="33%" valign="top">
-# 👁️ 03 · Vehicle Detection
+👁️ 03 · Vehicle Detection
 **Focus:** Computer Vision · YOLOv8 · OpenCV
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference.
 
 **Stack:** `YOLOv8` · `OpenCV` · `Python`
-
-**Type:** Professional/internal case study
 </td>
 </tr>
 </table>
@@ -158,7 +156,7 @@ Built a vehicle detection and tracking workflow covering model training, image/v
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-# ⚙️ 04 · YOLO11 Model Optimization
+⚙️ 04 · YOLO11 Model Optimization
 **Focus:** Object Detection · ONNX · INT8 Quantization
 
 Completed a model engineering workflow covering training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
@@ -166,7 +164,7 @@ Completed a model engineering workflow covering training, evaluation, ONNX expor
 [🔗 Repository](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
 </td>
 <td width="50%" valign="top">
-# 🔄 05 · Power Platform & BI Automation
+🔄 05 · Power Platform & BI Automation
 **Focus:** Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI
 
 Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
@@ -180,7 +178,7 @@ Designed workflow automation and BI solutions to streamline operational processe
 
 ## 💼 Experience
 
-# 🔵 Protics Research
+## 🔵 Protics Research
 **Data Analyst · September 2025 – Present**
 
 - Analyze market research datasets using SQL and Python.
@@ -188,7 +186,7 @@ Designed workflow automation and BI solutions to streamline operational processe
 - Apply statistical methods including correlation, regression and hypothesis testing.
 - Translate analysis into useful business insights and reporting outputs.
 
-# 🟣 Course 5 Intelligence Ltd
+## 🟣 Course 5 Intelligence Ltd
 **Analyst · Technology, Media & Telecom · August 2024 – September 2025**
 
 - Built Marketing Mix Modeling and predictive analytics workflows using Python and OLS regression.
