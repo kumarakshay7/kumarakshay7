@@ -126,7 +126,7 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <tr>
 <td width="33%" valign="top">
 📊 01 · Marketing Mix Modeling
-Marketing Analytics · OLS · ROI · Budget Allocation
+ ** Focus:** Marketing Analytics · OLS · ROI · Budget Allocation
 
 Built an end-to-end MMM workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis across large marketing datasets.
 
