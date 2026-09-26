@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kumarakshay7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarakshay7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumarakshay7.github.io/akshay-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar7280@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UnfilteredAkshayMahto)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 ## 🌈 About Me
 
-Data Analyst with experience across **analytics, Marketing Mix Modeling, machine learning, Generative AI, computer vision, and business automation**.
+Data Analyst with 2+ experience across **analytics, Marketing Mix Modeling, machine learning, Generative AI, computer vision, and business automation**.
 
 I work with **Python and SQL** to turn raw data into analysis and decision support, build ML solutions for practical use cases, and develop RAG-based GenAI applications using **Azure OpenAI, Azure AI Search and LangChain**.
 
@@ -50,7 +49,7 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 | 🤖 **Generative AI** | RAG · LLMs · Embeddings · Semantic Search · Prompt Engineering · Grounded Responses |
 | 👁️ **Machine Learning** | YOLOv8 · YOLO11 · OpenCV · PyTorch · TensorFlow · ONNX · Model Evaluation |
 | ⚡ **BI & Automation** | Power BI · Tableau · Power Apps · Power Automate · SharePoint · Copilot Studio |
-| ☁️ **Cloud & Engineering** | Azure · Azure OpenAI · Azure AI Search · REST APIs · Java · Spring Boot · MySQL |
+| ☁️ **Cloud & Engineering** | Azure · Azure OpenAI · Azure AI Search · REST APIs · MySQL |
 
 ---
 
@@ -110,8 +109,6 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 <td align="center" colspan="2">
 <h3>☕ Engineering & Databases</h3>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white">
