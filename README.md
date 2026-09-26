@@ -124,67 +124,57 @@ My recent work spans marketing analytics, enterprise document Q&A, object detect
 
 <table width="100%">
 <tr>
-
 <td width="33%" valign="top">
-
-📊 <strong>01 · Marketing Mix Modeling</strong><br>
+📊<strong> 01 · Marketing Mix Modeling</strong><br>
 Marketing Analytics · OLS · ROI · Budget Allocation
 
 Built an end-to-end MMM workflow using Python, OLS regression, feature engineering, validation and channel contribution analysis across large marketing datasets.
 
-<strong>Highlights:</strong> `500K+ records` · `5 channels` · `ROI measurement` · `Budget optimization`
-
+**Highlights:** `500K+ records` · `5 channels` · `ROI measurement` · `Budget optimization`
 </td>
-
 <td width="33%" valign="top">
-
-🤖 <strong>02 · Enterprise RAG AI Assistant</strong><br>
+🤖 02 · Enterprise RAG AI Assistant
 Azure OpenAI · Azure AI Search · LangChain · RAG
 
 Implemented document ingestion, chunking, embeddings, semantic/vector retrieval and grounded response generation.
 
-<strong>Stack:</strong> `Azure OpenAI` · `AI Search` · `LangChain` · `Streamlit`
+**Stack:** `Azure OpenAI` · `AI Search` · `LangChain` · `Streamlit`
 
-<a href="https://github.com/kumarakshay7/Azure-RAG-Assignments">🔗 Repository</a>
-
+[🔗 Repository](https://github.com/kumarakshay7/Azure-RAG-Assignments)
 </td>
-
 <td width="33%" valign="top">
-
-👁️ <strong>03 · Vehicle Detection</strong><br>
+👁️ 03 · Vehicle Detection
 Computer Vision · YOLOv8 · OpenCV
 
 Built a vehicle detection and tracking workflow covering model training, image/video preprocessing and inference.
 
-<strong>Stack:</strong> `YOLOv8` · `OpenCV` · `Python`
+**Stack:** `YOLOv8` · `OpenCV` · `Python`
+</td>
+</tr>
+</table>
 
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
-
-⚙️ <strong>04 · YOLO11 Model Optimization</strong><br>
+⚙️ 04 · YOLO11 Model Optimization
 Object Detection · ONNX · INT8 Quantization
 
 Completed a model engineering workflow covering training, evaluation, ONNX export, FP32 validation, INT8 quantization and failure analysis.
 
-<a href="https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment">🔗 Repository</a>
-
+[🔗 Repository](https://github.com/kumarakshay7/artikate-cv-ml-engineer-assignment)
 </td>
-
 <td width="50%" valign="top">
-
-🔄 <strong>05 · Power Platform & BI Automation</strong><br>
+🔄 05 · Power Platform & BI Automation
 Power Apps · Power Automate · SharePoint · Copilot Studio · Power BI
 
 Designed workflow automation and BI solutions to streamline operational processes and support faster data-driven decisions.
 
-<strong>Outcome:</strong> Workflow efficiency improvement and automated operational reporting.
-
+**Outcome:** Workflow efficiency improvement and automated operational reporting.
+</td>
 </tr>
 </table>
 
 ---
-
 ## 💼 Experience
 
 ## 🔵 Protics Research
